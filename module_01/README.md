@@ -38,8 +38,6 @@ random, but there is no randomness in the laws or predictions.
 
 <!-- update some examples and data from double pendulum -->
 
-## Randomness in a random world
-
 Modern physics involves the wave-particle duality of subatomic
 particles, but this is still a set of deterministic physical laws that
 make predictions about how the world works. The uncertainty principle
@@ -51,10 +49,38 @@ e.g. uncertainty in electron positions might stretch to $\approx100~nm$.
 -Albert Einstein [Letter to Max Borne]
 
 Einstein disagreed with the idea that even Quantum Mechanics can
-consider these theories as "random". 
+consider these theories as "random". Quantum Mechanical interpretations
+of wave functions depend upon many-world theories and superposition, but
+they are inherently deterministic. Always connecting events through
+known interactions even when cause-effect relationships seem to invert.
+
+## Randomness in a random world
+
+Most scientific theories are grounded in an underlying dogmatism that
+each effect is the result of some cause. Testing and validating
+scientific theories is done by isolating causes and measuring effects.
+In spite of these continued advances, there seems to be unexplained and seemingly random
+phenomenon. Nihilism, Existentialism, and Absurdism try to make sense of a
+world that seems random, chaotic, and meaningless. These philosophical
+theories point to chaos and chance encounters and try to make sense of
+the world in its random state. 
+
+## Random number generators
+
+Whether you consider the world to be ruled by cause and effect and
+chaotic or completely random. It is not easy to create _truly_ random
+numbers. _Truly random_ numbers need to be uniformly distributed e.g.
+the chance of 0 is the same as the chance of 0.789 _and_ unpredictable.
+Cryptocurrency, cryptography, and NFTs rely almost entirely on the
+creation of _truly_ random numbers. 
+
 
 
 ## References 
 **1.** Laplace, Pierre Simon, A Philosophical Essay on Probabilities,
 translated into English from the original French 6th ed. by Truscott,
 F.W. and Emory, F.L., Dover Publications (New York, 1951) p.4.
+**2.**
+[Barker, E. and Kelsey, J. Recommendation for Random Number Generation Using Deterministic Random
+Bit Generators, NIST Spec. Pub. 800-90A
+](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf)
