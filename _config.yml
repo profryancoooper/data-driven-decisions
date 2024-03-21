@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Computational Mechanics
+title: Data Driven Decisions
 author: "<a href = https://cooperrc.github.io> Ryan C. Cooper</a>"
-#logo: comp-mech-logo.svg
+logo: datadecisions.svg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
