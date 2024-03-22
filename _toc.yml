@@ -9,6 +9,7 @@ chapters:
   sections:
     - file: module_01/random_games
     - file: module_01/calculate_pi
+    - file: module_01/statistical_significance
 - file: module_02/README
   sections:
     - file: module_02/dice_game
