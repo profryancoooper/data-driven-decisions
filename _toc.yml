@@ -5,6 +5,10 @@ format: jb-book
 root: README
 chapters:
 - file: syllabus
+- file: module_00/README
+  sections:
+    - file: module_00/01_writing-w-llms.ipynb
+    - file: module_00/HW_00
 - file: module_01/README
   sections:
     - file: module_01/random_games
@@ -12,4 +16,11 @@ chapters:
     - file: module_01/statistical_significance
 - file: module_02/README
   sections:
+    - file: module_02/bus_wait
     - file: module_02/dice_game
+- file: module_03/README
+  sections:
+    - file: module_03/challenger
+- file: module_04/README
+  sections:
+    - file: module_04/report

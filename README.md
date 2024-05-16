@@ -1,21 +1,21 @@
 # Data-Driven Decisions: Monte Carlo Analysis for Technical Communications
 
-This course is designed to build expertise in two key areas:
-- Monte Carlo 
-- Technical Writing
+Greetings!
 
-Engineering practice takes many forms, but at its core engineers are
-defined by how they _innovate using quantifiable methods_. 
+Thanks for joining this Data-Driven Decisions course. This is a
+hands-on, writing portfolio-based course. The [course website]() is
+built with an [open source license]() so you can reuse these materials
+in professional, academic, or entrepreneurial practices you embark upon.
+Make sure you link your newly-created work back to our course and
+maintain the same license. 
 
-Monte Carlo is a skillset that uses random numbers to create
-computational experiments. Monte Carlo experiments can quantify and predict a
-number of outcomes e.g. deterministic parameters such as areas and
-columes, probability of failure, propagation of error. 
+Join us on the [GitHub Discussions]()
 
-Technical writing is a crucial skill to communicate innovations,
-predictions, and results. Technical communication is the delivery of
-technical information to readers in a manner that is adapted to their
-needs, level of understanding, and background.  The ability to
-"translate" technical information to nonspecialists is a key skill to
-any technical communicator. 
+## [View the current syllabus](./syllabus.md)
+
+## [Module_00 - Getting Started](./module_00/README.md)
+## [Module_01 - Writign about random numbers](./module_01/README.md)
+## [Module_02 - coming soon](./module_02/README.md)
+## [Module_03 - coming soon](./module_03/README.md)
+## [Module_04 - Case Studies](./module_04/README.md)
 
