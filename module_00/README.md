@@ -20,4 +20,27 @@ needs, level of understanding, and background.  The ability to
 any technical communicator. 
 
 Our first goal in the course is to practice technical reading and
-writing to develop personal learning objectives. 
+writing to develop personal learning outcomes. 
+
+**1.** Criticize and edit generative AI outcomes
+    - Identify and revise passive voice constructions in technical writing 
+    - Improve technical documents for conciseness by eliminating unnecessary words and redundancies
+    - Proof read work to identify and improve technical communications
+    - Quantify generalizations made by generative AI claims
+    - Quantify changes in a doument to attribute authorship and
+      intellectual property
+
+**2.** **Discuss Uncertainty in Design:**
+    - Perform statistical analysis of simulation data to extract meaningful insights
+    - Present statistical findings clearly and concisely
+    - Distinguish between qualitative (social) and quantitative
+      (engineering) uncertainty in technical documents
+    - Illustrate the importance of social uncertainty in engineering
+      design
+
+**5.** **Research Engineering Designs and Processes**
+    - Find, review, and cite reliable sources of information (textbooks,
+      articles, journals, news sources) 
+    - Contextualize technical and social information to validate a design or process
+    - Compose a unique case study in engineering decisions using data
+      from models and sources

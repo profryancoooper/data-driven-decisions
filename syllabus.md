@@ -11,42 +11,52 @@ Monte Carlo methods for both technical and non-technical audiences. Topics
 covered include probability modeling, Monte Carlo simulation, statistical
 analysis, and the creation of technical reports and presentations.
 
-## Course Objectives:
+## Course Goal:
+
+Appreciate the intersection of quantitative engineering and
+social design. As engineers, we are humans designing for other humans.
+The questions we ignore are often more detrimental than the questions we
+ask. Our goal is to discuss how engineering design affects people,
+communities, and history. 
+
+## Course Outcomes:
 
 By the end of this course, students will be able to:
 
-1. **Create Visualizations of Data:**
-    - Generate effective and informative visual representations of engineering data using appropriate tools (e.g., Excel, Python, or MATLAB)
-    - Select the suitable visualizations e.g. plots, bar charts, scatter
-     plots, histograms, contour for different data sets and
-     communication purposes
-
-2. **Explain the Importance of Graphs and Visualizations in a Technical Document:**
-    - Explain the significance of graphs and visualizations to describe technical information
-    - Use graphics to enhance the clarity and impact of technical documents
-
-3. **Edit and Improve Work to Maintain Active Voice and Concise Writing:**
+1. **Criticize and edit generative AI outcomes**
     - Identify and revise passive voice constructions in technical writing 
     - Improve technical documents for conciseness by eliminating unnecessary words and redundancies
     - Proof read work to identify and improve technical communications
-    - Peer review and provide constructive feedback
-
-2. **Analyze Technical Audiences for Engineering Communication:**
-    - Identify and analyze the needs and expectations of different technical audiences 
-    - Edit technical writing to communicate with technical audiences
-   
-4. **Probability Modeling:**
-    - Explain the principles and applications of Monte Carlo simulation in data-driven decision-making
-    - Develop probabilistic models for real-world scenarios
-    - Apply probability concepts to quantify uncertainty
-  
-5. **Monte Carlo Simulation:**
-    - Create Monte Carlo simulations using software tools (e.g., Python, R) to analyze complex systems and scenarios
-    - Interpret and communicate the results of Monte Carlo simulations
-6. **Statistical Analysis:**
+    - Quantify generalizations made by generative AI claims
+    - Quantify changes in a doument to attribute authorship and
+      intellectual property
+2. **Discuss Uncertainty in Design:**
     - Perform statistical analysis of simulation data to extract meaningful insights
     - Present statistical findings clearly and concisely
-
+    - Distinguish between qualitative (social) and quantitative
+      (engineering) uncertainty in technical documents
+    - Illustrate the importance of social uncertainty in engineering
+      design
+3. **Monte Carlo Simulation:**
+    - Create Monte Carlo simulations using software tools (e.g., Python, R) to analyze complex systems and scenarios
+    - Interpret and communicate the results of Monte Carlo simulations
+    - Explain the principles and applications of Monte Carlo simulation in data-driven decision-making
+    - Develop probabilistic models for real-world scenarios
+4. **Create Visualizations of Data:**
+    - Generate effective and informative visual representations of engineering data using appropriate tools (e.g., Excel, Python, or MATLAB)
+    - Select suitable visualizations  for different data sets and e.g. plots, bar charts, scatter
+     plots, histograms, contour plots,
+     communication purposes
+5. **Research Engineering Designs and Processes**
+    - Find, review, and cite reliable sources of information (textbooks,
+      articles, journals, news sources) 
+    - Contextualize technical and social information to validate a design or process
+    - Compose a unique case study in engineering decisions using data
+      from models and sources
+6. **Compose Writing According to Audiences:**
+    - Identify and analyze the needs and expectations of different audiences 
+    - Edit technical writing to communicate with audiences
+   
 ## Course Information
 __Course Title:__ ME3256 - Data Driven Decisions: Monte Carlo Analysis for Technical Communications
 
@@ -66,8 +76,9 @@ __Preferred Contact:__ Post questions and comments to
 [Discussions](https://github.com/cooperrc/data-driven-decisions/discussions)
 
 ## Assessment Methods:
-1. **Written Assignments:** Prepare three 500-word technical documents with one visualization each
-2. **Technical Report:** Present a Monte Carlo solution to an engineering problem in a 3000-word technical report
+1. **Written Assignments:** Prepare three 500-word technical documents 
+2. **Technical Report:** Present a Monte Carlo solution to an
+   engineering design problem in a 3000-word technical report
 4. **Peer Review and Feedback:** Evaluate peers' technical communication, specifically revisions on the main technical report project
 5. **Online Discussions:** Actively participate in online discussions and revisions
 
@@ -102,22 +113,19 @@ the course. You should plan to give and receive feedback on each stage of the wr
 
 ## Required Resources
 
-- Stevens. (2022). [Monte-Carlo Simulation An Introduction for Engineers and Scientists](https://uconn-storrs.primo.exlibrisgroup.com/permalink/01UCT_STORRS/1s3ubib/alma99429787447602432). Taylor & Francis Group
+- Downey, Allen B. [Probably Overthinking It](https://www.degruyter.com/document/doi/10.7208/chicago/9780226822594/html#MLA): How to Use Data to Answer
+  Questions, Avoid Statistical Traps, and Make Better Decisions,
+  Chicago: University of Chicago Press, 2023.
+  https://doi.org/10.7208/chicago/9780226822594
 - Gross *et al.* (2017). [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/). Open Oregon Educational Resources. 
 
 ## Minimum Technical Skills: 
 
 - Ability to follow coding tutorials
-
 - Comfortable executing code in a prompt
-
 - Comfortable working in a web browser
-
-- Draw free body diagram and write equations of motion
-
-- Draw a control volume and write conservation of energy equations
-
-- Take derivatives and integrals of functions
+- Ability to search for answers and references in Google, Wikipedia  and
+  news sources
 
 ## Grading Scale
 
