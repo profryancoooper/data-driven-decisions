@@ -32,7 +32,7 @@ By the end of this course, students will be able to:
       intellectual property
 2. **Discuss Uncertainty in Design:**
     - Perform statistical analysis of simulation data to extract meaningful insights
-    - Present statistical findings clearly and concisely
+    - Present clear and concise statistical findings 
     - Distinguish between qualitative (social) and quantitative
       (engineering) uncertainty in technical documents
     - Illustrate the importance of social uncertainty in engineering
@@ -66,8 +66,8 @@ __Instructor__: Prof. Ryan C. Cooper __<ryan.c.cooper@uconn.edu>__
 
 **Prerequisites**: Basic understanding of probability and statistics is
 recommended. Familiarity with programming languages such as Python or R is
-beneficial but not required. Example code and resources will be distributed and
-discussed.
+beneficial but not required. I will provide example code and resources.
+We are coding to learn, not learning to code.
 
 __Office Hours/Availability:__ by appointment
 <https://cooperrc.github.io>
@@ -94,21 +94,20 @@ assignment and a current grade. You can increase your grade by addressing the
 comments and resubmitting the work.
 
 **Note on Technical Report:** The project is a longer technical document for other
-entry-level engineers. You will be asked to outline the report and share your
-proposed figures and images that will help communicate your findings throughout
+entry-level engineers. You will outline the report and share your
+proposed figures and images and communicate your findings throughout
 the course. You should plan to give and receive feedback on each stage of the writing process: 
 - outline
 - first draft
 - final draft
 
 ## Academic Integrity: 
-- The instructors of this class have a zero-tolerance policy for academic misconduct, that
-  is copying others' work either in the lab, field, or on an exam.  Any student work that
-  is found to be in violation of the university policy regarding academic misconduct
-   will be assigned a grade of zero at a
-  minimum.
-- Read and understand [The UConn Student Code of
-  Conduct](http://www.community.uconn.edu/student_code.html "The Student Code for Academic
+- The instructors encourage you to use a wide variety of resources
+  including peers, online research, instructors, textbooks, articles,
+  and even generative AI. **Be sure you properly cite your sources and
+  explain your own intellectual contributions.** You should not let
+  resources substitute any of our course learning objectives. 
+- Read and understand [The UConn Student Code of Conduct](http://www.community.uconn.edu/student_code.html "The Student Code for Academic
   Integrity"). Students will follow all University regulations concerning the final exam.
 
 ## Required Resources
@@ -146,11 +145,11 @@ the course. You should plan to give and receive feedback on each stage of the wr
 
 ## Due Dates and Late Policy
 
-All course due dates are identified in the course calendar.
+The course calendar identifies course due dates.
 Deadlines are based on Eastern Time; if you are in a different time zone, please
 adjust your submittal times accordingly. The instructor reserves the right to
-change dates accordingly as the course progresses.  _All changes will be
-communicated via the calendar or another appropriate notification._
+change dates accordingly as the course progresses.  _I will
+communicate changes via the calendar or another appropriate notification._
 
 __Late Policy__: You must submit
 _something_ for every due date. You can resubmit any assignment to get
@@ -165,19 +164,6 @@ business days.  To keep track of your performance in the course, refer
 to grades in HuskyCT.  You can resubmit any assignment with
 improvements. Add a private comment to your submission when you have
 incorporated comments. 
-
-<!-- ## Student Authentication and Verification -->
-<!--  -->
-<!-- The University of Connecticut is required to verify the identity of students who -->
-<!-- participate in online courses and to establish that students who register in an -->
-<!-- online course are the same students who participate in and complete the course -->
-<!-- activities and assessments and receive academic credit. Verification and -->
-<!-- authentication of student identity in this course will include: -->
-<!--  -->
-<!-- 1. Secure access to the learning management system using your unique UConn NetID -->
-<!-- and password. -->
-<!--  -->
-<!-- 2. Video recordings to describe submissions -->
 
 ## Student Responsibilities and Resources 
 
@@ -218,7 +204,8 @@ The software/technical requirements for this course include:
 * HuskyCT
 * Adobe Acrobat Reader (Adobe Reader Accessibility Statement, Adobe Reader Privacy Policy)
 * Google Apps ([Google Apps Accessibility](https://www.google.com/accessibility/), [Google for Education Privacy Policy](https://www.google.com/edu/trust/)
-* Dedicated access to high-speed internet with a minimum speed of 1.5 Mbps (4 Mbps or higher is recommended).
+* Dedicated access to high-speed internet with a minimum speed of 1.5
+  Mbps (recommend 4 Mbps or higher).
 * [JupyterHub at compmech.uconn.edu](https://compmech.uconn.edu)
 
 __NOTE:__ This course was not tested or designed for mobile devices. 
