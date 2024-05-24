@@ -76,19 +76,20 @@ __Preferred Contact:__ Post questions and comments to
 [Discussions](https://github.com/cooperrc/data-driven-decisions/discussions)
 
 ## Assessment Methods:
-1. **Written Assignments:** Prepare three 500-word technical documents 
+1. **Writing Assignments:** Write 500-word technical documents 
 2. **Technical Report:** Present a Monte Carlo solution to an
    engineering design problem in a 3000-word technical report
 4. **Peer Review and Feedback:** Evaluate peers' technical communication, specifically revisions on the main technical report project
-5. **Online Discussions:** Actively participate in online discussions and revisions
+5. **Online Activities and Discussions:** Actively participate in online
+   activities and revisions
 
 ## Grading Policy:
 - Written Assignments: 30%
 - Technical Report: 30%
-- Online Discussions and Participation: 20%
+- Online Activities and Participation: 20%
 - Peer Review: 20%
 
-**Note on Written assignments:** Each written assignment will ask you to
+**Note on Writing assignments:** Each written assignment will ask you to
 explain a technical result to a given audience. You will get comments on the
 assignment and a current grade. You can increase your grade by addressing the
 comments and resubmitting the work.
