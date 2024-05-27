@@ -1,6 +1,27 @@
 # Module_01
 ## Writing about random numbers 
 
+This module introduces the difficult process of writing about random
+numbers. We will use some introductory Monte Carlo simulations to:
+
+2. **Discuss Uncertainty in Design:**
+    - Perform statistical analysis of simulation data to extract meaningful insights
+    - Present clear and concise statistical findings 
+    - Distinguish between qualitative (social) and quantitative
+      (engineering) uncertainty in technical documents
+    - Illustrate the importance of social uncertainty in engineering
+      design
+3. **Monte Carlo Simulation:**
+    - Create Monte Carlo simulations using software tools (e.g., Python, R) to analyze complex systems and scenarios
+    - Interpret and communicate the results of Monte Carlo simulations
+    - Explain the principles and applications of Monte Carlo simulation in data-driven decision-making
+    - Develop probabilistic models for real-world scenarios
+4. **Create Visualizations of Data:**
+    - Generate effective and informative visual representations of engineering data using appropriate tools (e.g., Excel, Python, or MATLAB)
+    - Select suitable visualizations  for different data sets and e.g. plots, bar charts, scatter
+     plots, histograms, contour plots,
+
+
 The core of Monte
 Carlo methods depends upon good [pseudo-random number
 generators](https://en.wikipedia.org/wiki/Pseudorandom_number_generator).
@@ -35,9 +56,15 @@ effect.
 A Chaotic system is different from a random system, because a choatic
 system follows predetermined rules, but small changes in initial
 conditions lead to large changes in final outcomes. The results can look
-random, but there is no randomness in the laws or predictions. 
+random, but there is no randomness in the laws or predictions. For
+example the double pendulum follows specific physical laws, but
+seemingly small changes lead to large final outcomes. 
 
-<!-- update some examples and data from double pendulum -->
+![Double pendulum simulation that demonstrating 100 double pendulums
+that begin to swing in unison, but as time progresses they begin
+diverging into chaotic
+motion](https://cooperrc.github.io/_images/100-pendulums.gif)
+
 
 Modern physics involves the wave-particle duality of subatomic
 particles, but this is still a set of deterministic physical laws that
@@ -74,6 +101,11 @@ numbers. _Truly random_ numbers need to be uniformly distributed e.g.
 the chance of 0 is the same as the chance of 0.789 _and_ unpredictable.
 Cryptocurrency, cryptography, and NFTs rely almost entirely on the
 creation of _truly_ random numbers. 
+In this course we will use the [NumPy
+`default_rng`](https://numpy.org/doc/stable/reference/random/generator.html)
+to create numbers that are pseudo random. We can't use them to generate
+cryptographic keys, but they are great for understanding uncertainty in
+physical systems. 
 
 
 
